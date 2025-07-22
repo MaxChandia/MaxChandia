@@ -28,11 +28,6 @@ Combino habilidades técnicas sólidas con una perspectiva única en comunicaci�
 - ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### 📊 Estadísticas GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MaxChandia&show_icons=true&theme=radical)
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChandia&layout=compact&theme=radical)
 
 ### 🎯 Lo que hago mejor
 
