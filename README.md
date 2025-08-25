@@ -39,12 +39,12 @@ Combino habilidades técnicas sólidas con una perspectiva única en comunicaci�
 
 ### 🌟 Trabajos realizados
 
-#### 🔥 [EyH Maestranza] (https://eyhmaestranza.cl/)
+#### 🔥 [EyH Maestranza](https://eyhmaestranza.cl/)
 Aplicación web desarrollada con React y Express
 - **Tech Stack**: React, Express, PostgreSQL
 - **Características**: Carga rápida de imagenes, uso de efectos de entrada de componentes, envío de formulario a email de contacto y respuestas almacenadas en base de datos para crear informes.
 
-#### 📊 [Parroquia Transfiguración del Señor] (https://www.parroquiatransfiguracion.cl/)
+#### 📊 [Parroquia Transfiguración del Señor](https://www.parroquiatransfiguracion.cl/)
 Aplicación web fullstack desarrollada con React y Django
 - **Tech Stack**: Next.js, TypeScript, Django, MongoDB.
 - **Características**: Sitio web de noticias autoadministrable, API REST, autenticación JWT, responsive design
