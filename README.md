@@ -37,17 +37,17 @@ Combino habilidades técnicas sólidas con una perspectiva única en comunicaci�
 - **📱 Responsive Design**: Experiencias fluidas en todos los dispositivos
 - **🧪 Testing**: Código confiable con pruebas unitarias e integración
 
-### 🌟 Proyectos Destacados
+### 🌟 Trabajos realizados
 
-#### 🔥 EyH Maestranza
+#### 🔥 [EyH Maestranza] (https://eyhmaestranza.cl/)
 Aplicación web desarrollada con React y Express
 - **Tech Stack**: React, Express, PostgreSQL
 - **Características**: Carga rápida de imagenes, uso de efectos de entrada de componentes, envío de formulario a email de contacto y respuestas almacenadas en base de datos para crear informes.
 
-#### 📊 Parroquia Transfiguración del Señor
+#### 📊 [Parroquia Transfiguración del Señor] (https://www.parroquiatransfiguracion.cl/)
 Aplicación web fullstack desarrollada con React y Django
 - **Tech Stack**: Next.js, TypeScript, Django, MongoDB.
-- **Características**: API REST, autenticación JWT, responsive design
+- **Características**: Sitio web de noticias autoadministrable, API REST, autenticación JWT, responsive design
 
 ### 📚 Formación
 
