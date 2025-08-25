@@ -39,17 +39,15 @@ Combino habilidades técnicas sólidas con una perspectiva única en comunicaci�
 
 ### 🌟 Proyectos Destacados
 
-#### 🔥 [Nombre del Proyecto](enlace-al-repo)
-Aplicación web fullstack desarrollada con React y Django
-- **Tech Stack**: React, TypeScript, Django, PostgreSQL
-- **Características**: API REST, autenticación JWT, responsive design
-- **Resultados**: Mejora del 40% en tiempos de carga
+#### 🔥 EyH Maestranza
+Aplicación web desarrollada con React y Express
+- **Tech Stack**: React, Express, PostgreSQL
+- **Características**: Carga rápida de imagenes, uso de efectos de entrada de componentes, envío de formulario a email de contacto y respuestas almacenadas en base de datos para crear informes.
 
-#### 📊 [Sistema de Análisis](enlace-al-repo)
-Dashboard interactivo para análisis de datos
-- **Tech Stack**: Angular, Python, MongoDB
-- **Características**: Visualizaciones en tiempo real, filtros avanzados
-- **Resultados**: Interface 60% más intuitiva según feedback de usuarios
+#### 📊 Parroquia Transfiguración del Señor
+Aplicación web fullstack desarrollada con React y Django
+- **Tech Stack**: Next.js, TypeScript, Django, MongoDB.
+- **Características**: API REST, autenticación JWT, responsive design
 
 ### 📚 Formación
 
@@ -57,12 +55,11 @@ Dashboard interactivo para análisis de datos
 - 📰 **Periodismo** - Universidad de Chile (2025)
 - 💻 **Full Stack Developer** - 4Geeks Academy (2024)
 
-### 🏆 Certificaciones & Logros
+### 🏆 Certificaciones
 
 - ✅ Certificado Full Stack Developer - 4Geeks Academy
-- 📈 12% de aumento en CTR orgánico en proyectos freelance
-- ⚡ 40% de mejora en tiempos de carga promedio
-- 🧪 Implementación exitosa de testing con cobertura >85%
+- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
+
 
 ### 🌍 Conectemos
 
