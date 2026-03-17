@@ -16,7 +16,7 @@ Combino habilidades técnicas sólidas con una perspectiva única en comunicaci�
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend**
-- ![Django](https://img.shields.io/badge/-Nest.js-092E20?style=flat-square&logo=django&logoColor=white)
+- ![Django](https://img.shields.io/badge/-Nest.js-092E20?style=flat-square&logo=nest.js&logoColor=white)
 
 **Bases de Datos**
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
