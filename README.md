@@ -10,13 +10,13 @@ Combino habilidades técnicas sólidas con una perspectiva única en comunicaci�
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![React](https://img.shields.io/badge/-Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend**
-- ![Django](https://img.shields.io/badge/-Nest.js-092E20?style=flat-square&logo=nest.js&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 **Bases de Datos**
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -39,15 +39,20 @@ Combino habilidades técnicas sólidas con una perspectiva única en comunicaci�
 
 ### 🌟 Trabajos realizados
 
-#### 🔥 [EyH Maestranza](https://eyhmaestranza.cl/)
+#### [EyH Maestranza](https://eyhmaestranza.cl/)
 Aplicación web desarrollada con React.
 - **Tech Stack**: React, Express, PostgreSQL
 - **Características**: Carga rápida de imagenes, uso de efectos de entrada de componentes, envío de formulario a email de contacto y respuestas almacenadas en base de datos para crear informes.
 
-#### 📊 [Parroquia Transfiguración del Señor](https://www.parroquiatransfiguracion.cl/)
+#### [Parroquia Transfiguración del Señor](https://www.parroquiatransfiguracion.cl/)
 Aplicación web fullstack desarrollada con React y Nest.js
 - **Tech Stack**: Next.js, TypeScript, Nest.js, MongoDB.
 - **Características**: Sitio web de noticias autoadministrable, API REST, autenticación JWT, responsive design
+
+#### [Chucaolab — Laboratorio de Paisaje Sonoro](https://[url-del-sitio])
+Sitio web institucional para laboratorio de investigación en paisaje sonoro.
+- **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Sanity CMS, GROQ
+- **Características**: CMS headless autoadministrable, optimización SEO con SSR, pruebas automatizadas con Jest y Playwright, arquitectura monorepo.
 
 ### 📚 Formación
 
@@ -55,16 +60,18 @@ Aplicación web fullstack desarrollada con React y Nest.js
 - 📰 **Periodismo** - Universidad de Chile (2025)
 - 💻 **Full Stack Developer** - 4Geeks Academy (2024)
 
-### 🏆 Certificaciones
+### Certificaciones
 
-- ✅ Certificado Full Stack Developer - 4Geeks Academy
-- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
+- Certificado Full Stack Developer - 4Geeks Academy
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- DevOps Essentials Professional Certification (DEPC®) – Certiprof (2025)
+- Scrum Master Professional Certification (SMPC®) – Certiprof (2025)
 
 
 ### 🌍 Conectemos
 
 - 💼 [LinkedIn](https://linkedin.com/in/maxchandiaf)
-- 🌐 [Portfolio](https://maxchandia.github.io/portafoliomaxchandia/)
+- 🌐 [Portfolio]([https://maxchandia.github.io/portafoliomaxchandia/](https://maxchandia.github.io/PortafolioMaximilianoChandia/))
 - 📧 [Email](mailto:maximiliano.chandiaf@gmail.com)
 
 ### 📈 Disponible para
