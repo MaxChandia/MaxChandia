@@ -49,7 +49,7 @@ Aplicación web fullstack desarrollada con React y Nest.js
 - **Tech Stack**: Next.js, TypeScript, Nest.js, MongoDB.
 - **Características**: Sitio web de noticias autoadministrable, API REST, autenticación JWT, responsive design
 
-#### [Chucaolab — Laboratorio de Paisaje Sonoro](https://[url-del-sitio])
+#### [Chucaolab — Laboratorio de Paisaje Sonoro]([https://[url-del-sitio]](https://chucao-lab.vercel.app/))
 Sitio web institucional para laboratorio de investigación en paisaje sonoro.
 - **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Sanity CMS, GROQ
 - **Características**: CMS headless autoadministrable, optimización SEO con SSR, pruebas automatizadas con Jest y Playwright, arquitectura monorepo.
@@ -71,7 +71,7 @@ Sitio web institucional para laboratorio de investigación en paisaje sonoro.
 ### 🌍 Conectemos
 
 - 💼 [LinkedIn](https://linkedin.com/in/maxchandiaf)
-- 🌐 [Portfolio]([https://maxchandia.github.io/portafoliomaxchandia/](https://maxchandia.github.io/PortafolioMaximilianoChandia/))
+- 🌐 [Portfolio](https://maxchandia.github.io/PortafolioMaximilianoChandia/)
 - 📧 [Email](mailto:maximiliano.chandiaf@gmail.com)
 
 ### 📈 Disponible para
