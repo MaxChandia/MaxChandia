@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Maximiliano Chandía Flores
 
-## 🚀 Desarrollador FullStack | Periodista | Especialista en UX/UI | SEO
+## 🚀 Desarrollador FullStack | Periodista | SEO
 
 Combino habilidades técnicas sólidas con una perspectiva única en comunicación y diseño centrado en el usuario. Mi experiencia en periodismo me ha enseñado a contar historias, y ahora las cuento a través del código.
 
